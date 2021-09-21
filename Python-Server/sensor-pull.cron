@@ -1,0 +1,2 @@
+#Min        Hour        Day of Month    Month   Day of Week(0=Sun)  Command
+0	        */3	        *	            *       *	                /home/pi/poll-all-3-sensors.sh
